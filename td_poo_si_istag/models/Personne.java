@@ -1,6 +1,6 @@
 package td_poo_si_istag.models;
 
-public class Personne 
+public class Personne  
 {
 	
 	private String nom,prenom,date_Naissance,num_telephone;
